@@ -1,4 +1,4 @@
-describe('Check content in Testkube.io',function(){
+describe('TA_',function(){
 
   it('TS_TC01',function(){
       cy.visit('https://testkube.io');
