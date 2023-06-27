@@ -1,4 +1,4 @@
-describe('cypress test images',function(){
+describe('cypress test image',function(){
 
   it('CTI_TS01_TC02',function(){
       cy.visit('https://testkube.io');
