@@ -1,6 +1,6 @@
-describe('TA_',function(){
+describe('cypress test images',function(){
 
-  it('TS_TC01',function(){
+  it('CTI_TS01_TC01',function(){
       cy.visit('https://testkube.io');
   })
 
