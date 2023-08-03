@@ -1,6 +1,6 @@
 
 
- describe('sample test suite for cypress',function(){
+ describe('suite',function(){
 
   it('S_TS01_TC01',function(){
       cy.visit('https://testkube.io');
